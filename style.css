@@ -1,0 +1,51 @@
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap);
+@import url("https://fonts.googleapis.com/css2?family=Average+Sans&display=swap");
+@font-face {
+  font-family: "about1";
+  src: url(fonts/StudioFeixenSansTRIAL-Medium.otf) format("otf");
+  src: url(fonts/StudioFeixenSansTRIAL-MediumItalic.otf) format("otf");
+  src: url(fonts/StudioFeixenSansTRIAL-Semibold.otf) format("otf");
+}
+* {
+  margin: 0;
+  padding: 0;
+  outline: 1px;
+}
+
+body {
+  background-color: #f3f2f9;
+  color: #606887;
+}
+#navlist {
+  font-family: "Coming Soon";
+}
+
+#header h1 {
+  font-family: "poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  line-height: 84px;
+}
+
+#header h2 {
+  font-family: "average Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  line-height: auto;
+}
+#header h3 {
+  font-family: "poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  line-height: auto;
+}
+
+#about1 {
+  margin-top: 300px;
+  color: black;
+}
+
+#about1 h1 {
+  font-family: [Studio_Feixen_Sans_TRIAL];
+  font-weight: 700;
+}
